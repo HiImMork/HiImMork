@@ -19,6 +19,7 @@ Current High Scores:
 |60s|113 wpm|
 |120s|98 wpm|
 |Average| 101 wpm|
+
 [Subscribe to Hoshimachi Suisei](https://www.youtube.com/@HoshimachiSuisei?sub_confirmation=1)
 
 ## Keyboard
