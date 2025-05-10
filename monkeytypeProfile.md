@@ -35,3 +35,8 @@ Current High Scores:
     - Relubed (dielectric grease on wires only)
 - Plate: Stock PC Plate
 - Plate Dampener: 4mm Silicon Plate Dampener & IXPE switch pads
+
+## Social Links
+[Discord](https://discord.com/users/566384603007549480)
+[YouTube](https://www.youtube.com/@HiImMark)
+[GitHub](https://github.com/HiImMork)
