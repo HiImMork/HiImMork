@@ -19,7 +19,7 @@ Current High Scores:
 |60s|113 wpm|
 |120s|98 wpm|
 |Average| 101 wpm|
-<br>
+
 [Subscribe to Hoshimachi Suisei](https://www.youtube.com/@HoshimachiSuisei?sub_confirmation=1)
 
 ## Keyboard
@@ -38,6 +38,8 @@ Current High Scores:
 - Plate Dampener: 4mm Silicon Plate Dampener & IXPE switch pads
 
 ## Social Links
-[Discord](https://discord.com/users/566384603007549480)
-[YouTube](https://www.youtube.com/@HiImMark)
-[GitHub](https://github.com/HiImMork)
+* [Discord](https://discord.com/users/566384603007549480)
+* [YouTube](https://www.youtube.com/@HiImMark)
+* [GitHub](https://github.com/HiImMork)
+
+*<small>Last updated 10/5/2025 9:48 AM UTC</small>*
