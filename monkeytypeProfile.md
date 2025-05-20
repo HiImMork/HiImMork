@@ -1,6 +1,6 @@
 # MonkeyType Profile
 
-> This file is an extension of my Monkeytype Profile since the keyboard section only allows up to 75 characters which is not enough to justify the monstrosity I call and use as keyboard.
+> This file is serves as my MonkeyType profile since MonkeyType only allows so much words in your bio (250 chars) and keyboard (75 chars). It contains basic information about me, my typing stats, and my keyboard setup in a markdown format for easy readability, accessibility, and maintainability.
 
 ## Basic Info
 
@@ -9,37 +9,47 @@ Joined 16 Sep 2021
 
 ## Bio
 
-_Hi I'm Mark (or MORK). I read, I type, I <90% Accuracy._
+_Hi I'm Mark (or MORK). I read, I type, I get <90% Accuracy._ <br>
+_[Subscribe to Hoshimachi Suisei](https://www.youtube.com/@HoshimachiSuisei?sub_confirmation=1)_
 
 Current High Scores:
 |Duration|Score|
 |-------|------|
-|15s|131 wpm|
-|30s|113 wpm|
-|60s|113 wpm|
-|120s|98 wpm|
-|Average| 101 wpm|
+|15s|131 wpm @ 100% acc|
+|30s|113 wpm @ 99% acc|
+|60s|113 wpm @ 98% acc|
+|120s|98 wpm @ 97% acc|
 
-[Subscribe to Hoshimachi Suisei](https://www.youtube.com/@HoshimachiSuisei?sub_confirmation=1)
+| Word Count | Score              |
+| ---------- | ------------------ |
+| 10         | 156 wpm @ 100% acc |
+| 25         | 100 wpm @ 99% acc  |
+| 50         | 102 wpm @ 95% acc  |
+| 100        | - wpm @ -% acc     |
+
+Average WPM: 102 @ 96% acc
 
 ## Keyboard
+
 - PCB: AKKO 5075B Plus
-    - Tape Modded (Painter's Tape)
+  - Tape Modded (Painter's Tape)
 - Case: AKKO 5075B Plus Horizon SP
-- Switches: AKKO Rosewood
-    - *Respringed Custom 2-staged 62g MX-style stainless steel springs.*
-- Keycaps: Generic BOW XDA Profile with Japanese sublegends
-    - *Painter's tape and 3M foam tape underneath the keycaps larger than 1U.*
+- Switches: AKKO Rosewood (Sometimes AKKO V3 Cream Blue Pro - stock)
+  - _Respringed custom 2-staged 62g MX-style stainless steel springs._
+- Keycaps: Generic BOW XDA-Profile with Japanese sublegends
+  - _Painter's tape and 3M foam tape underneath the keycaps larger than 1U._
 - Stabilizers: Stock Plate-Mounted Stabilizers
-    - Rebalanced
-    - Teflon Mod
-    - Relubed (dielectric grease on wires only)
-- Plate: Stock PC Plate
+  - Rebalanced
+  - Teflon Mod
+  - Extra dielectric grease on the wires.
+- Plate: Stock AKKO 75% PC Plate
 - Plate Dampener: 4mm Silicon Plate Dampener & IXPE switch pads
 
 ## Social Links
-* [Discord](https://discord.com/users/566384603007549480)
-* [YouTube](https://www.youtube.com/@HiImMark)
-* [GitHub](https://github.com/HiImMork)
 
-*<small>Last updated 10/5/2025 9:48 AM UTC</small>*
+- [Discord](https://discord.com/users/566384603007549480)
+- [YouTube](https://www.youtube.com/@HiImMark)
+- [GitHub](https://github.com/HiImMork)
+
+_<small>Last updated 20/5/2025 1:46 PM UTC</small>_
+
