@@ -29,21 +29,32 @@ Current High Scores:
 
 Average WPM: 102 @ 96% acc
 
-## Keyboard
+##Keyboards
+### Keyboard 1
+	- PCB: Monsgeek M1 V5 VIA
+	- Case: Monsgeek M1 V5 (Black & Silver)
+	- Keycaps: Monsgeek M1 V5 (Black & Silver) Stock Keycaps
+	- Switches: Akko V3 Piano Pro (Sometimes my custom Rosewwods)
+	- Stock Plate-mounted Stabilizers
+		- _If only my TX stabs don't cause interference on the spacebar. *sad emoji* *disintegrate.gif*_
+	- Stock Dampeners
+	- VIA config upcoming soon...  
+
+### Keyboard 2
 
 - PCB: AKKO 5075B Plus
   - Tape Modded (Painter's Tape)
 - Case: AKKO 5075B Plus Horizon SP
 - Switches: AKKO Rosewood (Sometimes AKKO V3 Cream Blue Pro - stock)
   - _Respringed custom 2-staged 62g MX-style stainless steel springs._
-- Keycaps: Generic BOW XDA-Profile with Japanese sublegends
+- Keycaps: Generic BOW XDA-Profile with Japanese sub-legends
   - _Painter's tape and 3M foam tape underneath the keycaps larger than 1U._
-- Stabilizers: Stock Plate-Mounted Stabilizers
-  - Rebalanced
-  - Teflon Mod
-  - Extra dielectric grease on the wires.
+- Stabilizers: TX AP Screw-in Stabilizers Rev. 4
+	- Dielectric Grease on wires.
+	- Krytox 205g0 on the housings.
 - Plate: Stock AKKO 75% PC Plate
 - Plate Dampener: 4mm Silicon Plate Dampener & IXPE switch pads
+- 2mm PORON foam (DIY Cut)
 
 ## Social Links
 
