@@ -14,11 +14,11 @@ _[Subscribe to Hoshimachi Suisei](https://www.youtube.com/@HoshimachiSuisei?sub_
 
 Current High Scores:
 |Duration|Score|
-|-------|------|
-|15s|131 wpm @ 100% acc|
-|30s|113 wpm @ 99% acc|
-|60s|113 wpm @ 98% acc|
-|120s|98 wpm @ 97% acc|
+| ------ | -------------------- |
+| 15s | 131 wpm @ 100% acc |
+| 30s | 113 wpm @ 99% acc |
+| 60s | 113 wpm @ 98% acc |
+| 120s | 98 wpm @ 97% acc |
 
 | Word Count | Score              |
 | ---------- | ------------------ |
@@ -29,16 +29,27 @@ Current High Scores:
 
 Average WPM: 102 @ 96% acc
 
-##Keyboards
+## Keyboards
+
+Here is a list of the keyboards I use for typing in general. This list is sorted based on how often I use them and detailed as much as possible.
+
 ### Keyboard 1
-	- PCB: Monsgeek M1 V5 VIA
-	- Case: Monsgeek M1 V5 (Black & Silver)
-	- Keycaps: Monsgeek M1 V5 (Black & Silver) Stock Keycaps
-	- Switches: Akko V3 Piano Pro (Sometimes my custom Rosewwods)
-	- Stock Plate-mounted Stabilizers
-		- _If only my TX stabs don't cause interference on the spacebar. *sad emoji* *disintegrate.gif*_
-	- Stock Dampeners
-	- VIA config upcoming soon...  
+
+- PCB: Monsgeek M1 V5 VIA
+- Case: Monsgeek M1 V5
+- Plate: Stock PC Plate with flex cuts
+- Keycaps: Monsgeek M1 V5 Stock Keycaps
+- Switches: Akko V3 Piano Pro (Sometimes my custom Rosewwods)
+- _TX AP Screw-in Stabilizers Rev. 4_
+  - Dielectric grease on the wires.
+  - Krtox GPL 205g0 on the housings and stems.
+- Stock Dampeners
+  - 2mm PORON plate foam
+  - PET Film
+  - IXPe sheet
+  - 3mm PORON case foam
+  - PET Film
+- VIA config upcoming soon...
 
 ### Keyboard 2
 
@@ -50,8 +61,8 @@ Average WPM: 102 @ 96% acc
 - Keycaps: Generic BOW XDA-Profile with Japanese sub-legends
   - _Painter's tape and 3M foam tape underneath the keycaps larger than 1U._
 - Stabilizers: TX AP Screw-in Stabilizers Rev. 4
-	- Dielectric Grease on wires.
-	- Krytox 205g0 on the housings.
+  - Dielectric Grease on wires.
+  - Krytox 205g0 on the housings.
 - Plate: Stock AKKO 75% PC Plate
 - Plate Dampener: 4mm Silicon Plate Dampener & IXPE switch pads
 - 2mm PORON foam (DIY Cut)
@@ -62,5 +73,4 @@ Average WPM: 102 @ 96% acc
 - [YouTube](https://www.youtube.com/@HiImMark)
 - [GitHub](https://github.com/HiImMork)
 
-_<small>Last updated 20/5/2025 1:46 PM UTC</small>_
-
+_<small>Last updated 14/9/2025 5:23 PM UTC</small>_
