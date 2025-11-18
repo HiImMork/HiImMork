@@ -40,7 +40,7 @@ Here is a list of the keyboards I use for typing in general. This list is sorted
 - PCB: Monsgeek M1 V5 VIA
 - Case: Monsgeek M1 V5
 - Plate: Stock PC Plate with flex cuts
-- Keycaps: Monsgeek M1 V5 Stock Keycaps
+- Keycaps: Monsgeek WOB SA-profile PBT keycaps with BOW accents
 - Switches: Akko V3 Piano Pro
 - _TX AP Screw-in Stabilizers Rev. 4_
   - Dielectric grease on the wires.
