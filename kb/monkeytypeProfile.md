@@ -41,7 +41,7 @@ Here is a list of the keyboards I use for typing in general. This list is sorted
 - Case: Monsgeek M1 V5
 - Plate: Stock PC Plate with flex cuts
 - Keycaps: Monsgeek M1 V5 Stock Keycaps
-- Switches: Akko V3 Piano Pro (Sometimes my custom Rosewwods)
+- Switches: Akko V3 Piano Pro
 - _TX AP Screw-in Stabilizers Rev. 4_
   - Dielectric grease on the wires.
   - Krtox GPL 205g0 on the housings and stems.
@@ -51,6 +51,7 @@ Here is a list of the keyboards I use for typing in general. This list is sorted
   - IXPe sheet
   - 3mm PORON case foam
   - PET Film
+- Tape mod (3 layers under the PCB, 3 layers below the PCB, total 6)
 - VIA config available @ [here](./VIA/MonsgeekM1V5/)
 
 ### Keyboard 2
@@ -74,4 +75,4 @@ Here is a list of the keyboards I use for typing in general. This list is sorted
 - [YouTube](https://www.youtube.com/@HiImMark)
 - [GitHub](https://github.com/HiImMork)
 
-_<small>Last updated 06/10/2025 12:24 PM UTC</small>_
+_<small>Last updated 11/18/2025 13:02PM +8UTC</small>_
